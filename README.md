@@ -1,9 +1,7 @@
 
 - 👋 Hi, I’m @EliaTG
 - 👀 I’m interested in ...
-- 
 - 🌱 I’m currently learning <b>React</b>
--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <b>elitoribio01@gmail.com</b>
 
