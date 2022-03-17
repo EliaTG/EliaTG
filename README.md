@@ -18,7 +18,7 @@
 <h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliatg&show_icons=true&locale=en&layout=compact" alt="eliatg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliatg&show_icons=true&locale=en" alt="eliatg" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eliatg&show_icons=true&locale=en" alt="eliatg" /></p>
 
 <!---
 EliaTG/EliaTG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
