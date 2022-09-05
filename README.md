@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eliatoribio/" target="blank"><img align="center" src="https://github.com/EliaTG/EliaTG/blob/main/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/eliatoribio/" target="blank"><img align="center" src="https://github.com/EliaTG/EliaTG/blob/main/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="elitoribio01@gmail.com" target="blank"><img align="center" src="https://github.com/EliaTG/EliaTG/blob/main/socials/Gmail_Logo.png" alt="" height="20" /></a>
 <a href="https://eliatoribio.netlify.app/" target="blank"><img align="center"
 src="https://github.com/EliaTG/EliaTG/blob/main/socials/code.ico" alt="" height="50" /></a>
@@ -20,6 +20,7 @@ src="https://github.com/EliaTG/EliaTG/blob/main/socials/frontend-mentor.svg" alt
 
 </p>
 
+![cajita](https://user-images.githubusercontent.com/71838009/188485183-146adfd1-4193-4ea8-a5c9-a4f386784e62.gif)
 
 
 
