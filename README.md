@@ -1,6 +1,6 @@
 <h1 align="center">Hi guys 😎, I'm Elia Toribio Guillén</h1>
 <h3 align="center">I'm a web developer passionate about technology and clean code. I love learning new things in my free time.</h3>
-<img src="![cajita](https://user-images.githubusercontent.com/71838009/188485784-91b941e0-6e95-4b94-a8e2-122d8b34917b.gif)" />
+<img src="https://user-images.githubusercontent.com/71838009/188485784-91b941e0-6e95-4b94-a8e2-122d8b34917b.gif" />
 
 - 🌱 I’m currently learning **React**
 
