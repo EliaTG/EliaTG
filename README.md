@@ -15,7 +15,7 @@
 <a href="https://eliatoribio.netlify.app/" target="blank"><img align="center"
 src="https://github.com/EliaTG/EliaTG/blob/main/socials/code.ico" alt="" height="30" /></a>
 <a href="https://www.frontendmentor.io/profile/EliaTG" target="blank"><img align="center"
-src="https://github.com/EliaTG/EliaTG/blob/main/socials/frontend-mentor.svg" alt="" height="30" /></a>
+src="https://github.com/EliaTG/EliaTG/blob/main/socials/frontend-mentor.svg" alt="" height="40" /></a>
 
 
 </p>
