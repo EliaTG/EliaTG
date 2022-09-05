@@ -11,7 +11,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eliatoribio/" target="blank"><img align="center" src="https://github.com/EliaTG/EliaTG/blob/main/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="elitoribio01@gmail.com" target="blank"><img align="center" src="https://github.com/EliaTG/EliaTG/blob/main/socials/Gmail_Logo.png" alt="" height="25" /></a>
+<a href="elitoribio01@gmail.com" target="blank"><img align="center" src="https://github.com/EliaTG/EliaTG/blob/main/socials/Gmail_Logo.png" alt="" height="40" /></a>
 <a href="https://eliatoribio.netlify.app/" target="blank"><img align="center"
 src="https://github.com/EliaTG/EliaTG/blob/main/socials/code.ico" alt="" height="30" /></a>
 <a href="https://www.frontendmentor.io/profile/EliaTG" target="blank"><img align="center"
