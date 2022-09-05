@@ -21,7 +21,7 @@ src="https://github.com/EliaTG/EliaTG/blob/main/socials/frontend-mentor.svg" alt
 
 
 </p>
-<img align="right" width="150" height="150" src="[https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif](https://user-images.githubusercontent.com/71838009/188485183-146adfd1-4193-4ea8-a5c9-a4f386784e62.gif)"></a>
+<img align="right" width="150" height="150" src="[https://github.com/EliaTG/EliaTG/blob/main/cajita.gif])"></a>
 
 
 
