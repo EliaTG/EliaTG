@@ -20,8 +20,8 @@ src="https://github.com/EliaTG/EliaTG/blob/main/socials/frontend-mentor.svg" alt
 
 ![cajita](https://user-images.githubusercontent.com/71838009/188485784-91b941e0-6e95-4b94-a8e2-122d8b34917b.gif)
 </p>
-<img align="right" width="150" height="150" src="[https://github.com/EliaTG/EliaTG/blob/main/cajita.gif])"></a>
-https://github.com/EliaTG/EliaTG/blob/main/cajita.gif
+<img align="right" width="100" height="100" src="[https://github.com/EliaTG/EliaTG/blob/main/cajita.gif])"></a>
+
 
 
 
