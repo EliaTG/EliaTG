@@ -9,7 +9,7 @@
 - 📫 How to reach me **elitoribio01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
+![cajita](https://user-images.githubusercontent.com/71838009/188485784-91b941e0-6e95-4b94-a8e2-122d8b34917b.gif)
 <p align="left">
 <a href="https://www.linkedin.com/in/eliatoribio/" target="blank"><img align="center" src="https://github.com/EliaTG/EliaTG/blob/main/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="elitoribio01@gmail.com" target="blank"><img align="center" src="https://github.com/EliaTG/EliaTG/blob/main/socials/Gmail_Logo.png" alt="" height="20" /></a>
@@ -19,7 +19,7 @@ src="https://github.com/EliaTG/EliaTG/blob/main/socials/code.ico" alt="" height=
 src="https://github.com/EliaTG/EliaTG/blob/main/socials/frontend-mentor.svg" alt="" height="40" /></a>
 
 </p>
-![cajita](https://user-images.githubusercontent.com/71838009/188485784-91b941e0-6e95-4b94-a8e2-122d8b34917b.gif)
+
 
 
 
