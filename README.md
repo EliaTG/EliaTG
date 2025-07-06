@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue.js**
 - 👨‍💻 All my projects are available at: [eliatoribio.netlify.app](https://eliatoribio.netlify.app)
 - 📫 Reach me at: **elitoribio01@gmail.com**
 
