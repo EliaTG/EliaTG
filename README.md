@@ -8,7 +8,7 @@
 ---
 
 - 🌱 I’m currently learning **Vue.js**
-- 👨‍💻 All my projects are available at: [eliatoribio.netlify.app](https://eliatoribio.netlify.app)
+- 👨‍💻 All my projects are available at: [eliatoribio.com](https://eliatoribio.com)
 - 📫 Reach me at: **elitoribio01@gmail.com**
 
 ---
