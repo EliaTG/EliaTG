@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js** **Nextjs**
 - 👨‍💻 All my projects are available at: [eliatoribio.com](https://eliatoribio.com)
 - 📫 Reach me at: **elitoribio01@gmail.com**
 
