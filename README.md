@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 😎, I'm Elia Toribio Guillén</h1>
-<h3 align="center">Web developer passionate about technology, clean code, and continuous learning.</h3>
+<h3 align="center">Web developer and AI enthusiast passionate about technology, clean code, and continuous learning.</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/71838009/188485784-91b941e0-6e95-4b94-a8e2-122d8b34917b.gif" height="140" alt="dancing box" />
@@ -12,29 +12,6 @@
 - 📫 Reach me at: **elitoribio01@gmail.com**
 
 ---
-
-### 🌐 Connect with me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/eliatoribio/" target="_blank">
-    <img src="https://github.com/EliaTG/EliaTG/blob/main/socials/transparent-Linkedin-logo-icon.png" alt="LinkedIn" style="height:30px;"/>
-  </a>
-  <a href="mailto:elitoribio01@gmail.com" target="_blank">
-    <img src="https://github.com/EliaTG/EliaTG/blob/main/socials/Gmail_Logo.png" alt="Email" style="height:20px;"/>
-  </a>
-  <a href="https://eliatoribio.netlify.app/" target="_blank">
-    <img src="https://github.com/EliaTG/EliaTG/blob/main/socials/code.ico" alt="Portfolio" style="height:40px;"/>
-  </a>
-  <a href="https://www.frontendmentor.io/profile/EliaTG" target="_blank">
-    <img src="https://github.com/EliaTG/EliaTG/blob/main/socials/frontend-mentor.svg" alt="Frontend Mentor" style="height:40px;"/>
-  </a>
-</p>
-
----
-# 💫 About Me:
-Web developer and AI enthusiast passionate about technology, clean code, and continuous learning.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eliatoribio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elitoribio01@gmail.com) 
 
